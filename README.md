@@ -1,9 +1,14 @@
 # Netflix
 ![1](https://github.com/trishaDas13/netflix/assets/126088849/6d2d535d-8a15-4413-ac57-2ef74b61f0bb)
 
+![container-div](https://github.com/trishaDas13/netflix/assets/126088849/bf73d095-e8d4-42e4-8561-747b7295319a)
+
+
 This div portion is for the whole contain.
 
 ![navbar](https://github.com/trishaDas13/netflix/assets/126088849/a22f8670-169d-4446-a88c-7eaeee5d54ae)
+
+![header div](https://github.com/trishaDas13/netflix/assets/126088849/1e064755-bd48-49d4-a286-12cc94dc8d95)
 
 This is for the navbar only. html tags used: 
 
@@ -14,6 +19,8 @@ This is for the navbar only. html tags used:
 "img" tag: Inserts an image into a web page, allowing you to display pictures, graphics, or other visual content to enhance the overall presentation.
 
 ![body](https://github.com/trishaDas13/netflix/assets/126088849/54f23634-8772-4e52-abda-e032887c2b3d)
+
+![hero-text-div](https://github.com/trishaDas13/netflix/assets/126088849/25ce5c95-39e6-4675-a3fa-03da7611de16)
 
 Here I write the body part and herotext part html tags used: 
 
@@ -39,6 +46,8 @@ Background Image: Sets an image as the background of an element, contributing to
 
 ![navbar-css-1](https://github.com/trishaDas13/netflix/assets/126088849/e7044cb6-5c50-4409-8802-80c249bee62e)
 ![navbar-css-2](https://github.com/trishaDas13/netflix/assets/126088849/2eadfc35-0448-42dd-ad27-865555d12e06)
+![header div](https://github.com/trishaDas13/netflix/assets/126088849/e808de56-8e65-45cf-a1c4-1864ecce4aac)
+
 
 z-index: Determines the stacking order of elements, influencing which element appears on top when they overlap.
 
@@ -53,6 +62,7 @@ font-weight: Adjusts the thickness or boldness of text characters, aiding in emp
 text-align: Aligns the horizontal positioning of text within its container, enhancing readability and design.
 
 ![body-css](https://github.com/trishaDas13/netflix/assets/126088849/17240e73-bb01-4c75-866d-f14cf7459171)
+![hero-text-div](https://github.com/trishaDas13/netflix/assets/126088849/47d696c1-085a-4853-9f5f-05c0e5a5c24c)
 
 font-size: Sets the size of text characters, influencing readability and visual hierarchy.
 
